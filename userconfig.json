@@ -1,0 +1,25 @@
+{
+    "api_stuff":
+    {
+
+    "openai_apikey":"sk-dwhwduhdawhuaduhadnnakn",
+    "azure_cloud_tts":"azurecloudapikey",
+    "azure_cloud_subscription_id":"yoursubid",
+    "azue_region":"region",
+    "elevenlabs_tts":"elevenlabsapikey"
+
+    },
+    "simple_user_config":
+    {
+    "run_local_llm":"false",
+    "run_chat_gpt_3.5":"true",
+    "tts_service_to_use":"silero_tts",
+    "use_own_chatgpt_lore":"false"
+    }
+
+    
+
+
+
+
+}

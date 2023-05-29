@@ -1,0 +1,11 @@
+openai
+azure.cognitiveservices.speech
+whisper
+bark
+scipy
+ipython
+PIL
+soundfile
+sounddevice 
+torch
+ipython
